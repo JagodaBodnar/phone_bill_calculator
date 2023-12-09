@@ -1,4 +1,4 @@
-Program created ad part of independent exercise (java course).
+Program created as part of independent exercise (java course).
 
 ## Instruction
 > Calculate the final total of someone's cell phone bill. </br>
